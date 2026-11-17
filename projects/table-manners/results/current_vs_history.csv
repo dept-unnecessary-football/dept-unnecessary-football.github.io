@@ -1,0 +1,6 @@
+league,season,matchweek,past_seasons,matches_to_date,noll_scully,noll_scully_past_min,noll_scully_past_median,noll_scully_past_max,noll_scully_percentile,hicb,hicb_past_min,hicb_past_median,hicb_past_max,hicb_percentile,gap_1_4_per_game,gap_1_4_per_game_past_min,gap_1_4_per_game_past_median,gap_1_4_per_game_past_max,gap_1_4_per_game_percentile,ns_null_lo,ns_null_hi
+Serie A,2026-27,11,10,110,1.621,1.297,1.477,1.911,80.0,122.683,114.184,118.159,131.149,80.0,0.454,0.182,0.5,1.091,40.0,0.691,1.307
+LaLiga,2026-27,11,10,110,1.538,1.074,1.381,1.66,70.0,119.932,109.59,115.827,122.672,70.0,0.636,0.182,0.546,0.909,60.0,0.695,1.312
+Ligue 1,2026-27,10,10,90,1.239,0.854,1.221,1.488,60.0,114.278,106.665,113.337,120.502,60.0,0.5,0.2,0.75,1.1,25.0,0.688,1.314
+Bundesliga,2026-27,9,10,81,1.192,1.142,1.333,1.673,20.0,114.747,113.221,118.078,129.363,30.0,0.333,0.222,0.444,1.0,10.0,0.679,1.321
+Premier League,2026-27,10,10,100,1.238,1.204,1.401,1.766,10.0,113.915,113.539,117.88,129.161,10.0,0.9,0.1,0.6,0.9,95.0,0.684,1.292

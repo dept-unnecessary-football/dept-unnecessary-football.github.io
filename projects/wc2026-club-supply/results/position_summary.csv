@@ -1,0 +1,5 @@
+Group,Players,Minutes,Touches per 90,Passes per 90,Pass Accuracy %,Progressive Carries per 90,Defensive Actions per 90,Tackles per 90,Interceptions per 90,Clearances per 90,Recoveries per 90,Duel Win %,Duels per 90,Key Passes per 90,Shots per 90,Touches in Opp Box per 90,Goals per 90,Assists per 90,G+A per 90,Fouls per 90
+Goalkeepers,48,17755,37.25,28.36,68.8,1.57,1.09,0.02,0.02,1.06,7.43,89.5,0.63,0.03,0.0,0.01,0.0,0.0,0.0,0.02
+Defenders,194,63895,67.55,50.63,88.4,6.91,6.7,1.59,0.98,4.03,3.25,56.8,7.52,0.51,0.51,1.08,0.04,0.04,0.079,0.92
+Midfielders,179,55694,65.54,49.24,87.4,6.28,4.38,1.88,0.87,1.26,4.25,50.3,9.44,1.06,1.24,1.79,0.12,0.13,0.257,1.16
+Attackers,102,31930,43.41,25.73,80.4,5.38,2.71,1.0,0.39,0.72,2.8,44.4,10.67,1.31,2.35,4.63,0.37,0.18,0.552,1.03

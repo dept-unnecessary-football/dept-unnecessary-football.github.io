@@ -1,0 +1,11 @@
+date,league,home,away,score,outcome,p_outcome,p_outcome_shin
+2026-11-02,Serie A,Atalanta,Parma,0-3,A,0.129,0.12
+2026-11-07,Premier League,Nott'm Forest,Man City,3-1,H,0.188,0.181
+2026-11-08,Ligue 1,Le Mans,Monaco,1-1,D,0.238,0.233
+2026-11-08,Premier League,Man United,Aston Villa,4-4,D,0.238,0.234
+2026-11-07,Premier League,Fulham,Newcastle,1-1,D,0.248,0.244
+2026-11-07,Bundesliga,Paderborn,Ein Frankfurt,2-2,D,0.252,0.248
+2026-11-08,Serie A,Napoli,Lazio,1-1,D,0.257,0.253
+2026-11-08,LaLiga,Celta,Levante,0-0,D,0.26,0.257
+2026-11-07,Serie A,Torino,Lecce,1-1,D,0.262,0.259
+2026-11-08,Serie A,Fiorentina,Juventus,2-2,D,0.277,0.275

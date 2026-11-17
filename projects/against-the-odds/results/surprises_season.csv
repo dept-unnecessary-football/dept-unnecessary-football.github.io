@@ -1,0 +1,26 @@
+date,league,home,away,score,outcome,p_outcome,p_outcome_shin
+2026-10-10,Bundesliga,Augsburg,Bayern Munich,2-2,D,0.104,0.093
+2026-08-22,Premier League,Hull,Man United,2-0,H,0.111,0.101
+2026-09-04,Ligue 1,Paris SG,Monaco,1-2,A,0.118,0.108
+2026-10-23,Bundesliga,Stuttgart,M'gladbach,2-3,A,0.127,0.117
+2026-09-05,Bundesliga,Schalke 04,Bayern Munich,0-0,D,0.128,0.118
+2026-11-02,Serie A,Atalanta,Parma,0-3,A,0.129,0.12
+2026-10-30,LaLiga,Villarreal,Espanol,0-1,A,0.131,0.121
+2026-09-05,LaLiga,Villarreal,La Coruna,2-3,A,0.141,0.133
+2026-09-12,Premier League,Chelsea,Hull,2-2,D,0.141,0.133
+2026-10-10,Bundesliga,Hoffenheim,Hamburg,2-3,A,0.143,0.135
+2026-09-20,Serie A,Frosinone,Como,2-0,H,0.157,0.149
+2026-09-04,LaLiga,Betis,Real Madrid,1-0,H,0.16,0.152
+2026-09-05,Ligue 1,Lens,Lorient,0-1,A,0.162,0.154
+2026-10-31,Bundesliga,Bayern Munich,Dortmund,2-2,D,0.162,0.154
+2026-10-28,Serie A,Genoa,Juventus,2-0,H,0.173,0.165
+2026-10-09,Bundesliga,Dortmund,Werder Bremen,2-2,D,0.179,0.172
+2026-10-28,Serie A,Milan,Bologna,2-4,A,0.181,0.174
+2026-09-19,Premier League,Nott'm Forest,Coventry,0-1,A,0.181,0.174
+2026-09-15,LaLiga,Alaves,Valencia,0-1,A,0.182,0.174
+2026-09-13,Serie A,Sassuolo,Juventus,3-2,H,0.183,0.176
+2026-10-18,Serie A,Juventus,Lazio,0-3,A,0.184,0.177
+2026-10-17,LaLiga,Villarreal,Elche,0-0,D,0.187,0.181
+2026-08-29,Bundesliga,Elversberg,Leverkusen,3-2,H,0.188,0.181
+2026-11-07,Premier League,Nott'm Forest,Man City,3-1,H,0.188,0.181
+2026-09-12,Serie A,Atalanta,Cagliari,1-2,A,0.189,0.183

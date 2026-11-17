@@ -1,0 +1,81 @@
+league,season,method,matches,brier,brier_se
+Bundesliga,2019-20,proportional,306,0.5803,0.0203
+Bundesliga,2020-21,proportional,306,0.5839,0.0194
+Bundesliga,2021-22,proportional,306,0.5824,0.0199
+Bundesliga,2022-23,proportional,306,0.5934,0.0185
+Bundesliga,2023-24,proportional,306,0.5593,0.0197
+Bundesliga,2024-25,proportional,306,0.5895,0.0195
+Bundesliga,2025-26,proportional,306,0.5618,0.0176
+Bundesliga,2026-27,proportional,81,0.5778,0.0404
+LaLiga,2019-20,proportional,380,0.5856,0.0157
+LaLiga,2020-21,proportional,380,0.5814,0.0163
+LaLiga,2021-22,proportional,380,0.5894,0.0159
+LaLiga,2022-23,proportional,380,0.5821,0.0155
+LaLiga,2023-24,proportional,380,0.5649,0.0153
+LaLiga,2024-25,proportional,380,0.5594,0.0162
+LaLiga,2025-26,proportional,380,0.5717,0.0149
+LaLiga,2026-27,proportional,119,0.5337,0.0291
+Ligue 1,2019-20,proportional,279,0.5876,0.017
+Ligue 1,2020-21,proportional,380,0.5916,0.0159
+Ligue 1,2021-22,proportional,380,0.5979,0.016
+Ligue 1,2022-23,proportional,380,0.576,0.0167
+Ligue 1,2023-24,proportional,306,0.6101,0.0168
+Ligue 1,2024-25,proportional,306,0.5647,0.019
+Ligue 1,2025-26,proportional,306,0.582,0.0182
+Ligue 1,2026-27,proportional,90,0.5611,0.0307
+Premier League,2019-20,proportional,380,0.575,0.0183
+Premier League,2020-21,proportional,380,0.5918,0.0174
+Premier League,2021-22,proportional,380,0.5541,0.0177
+Premier League,2022-23,proportional,380,0.5712,0.0174
+Premier League,2023-24,proportional,380,0.5267,0.0182
+Premier League,2024-25,proportional,380,0.5752,0.0179
+Premier League,2025-26,proportional,380,0.6077,0.0159
+Premier League,2026-27,proportional,100,0.6047,0.0302
+Serie A,2019-20,proportional,380,0.5658,0.0177
+Serie A,2020-21,proportional,380,0.5509,0.0172
+Serie A,2021-22,proportional,380,0.5771,0.0178
+Serie A,2022-23,proportional,380,0.5827,0.0157
+Serie A,2023-24,proportional,380,0.5769,0.0156
+Serie A,2024-25,proportional,380,0.5672,0.0156
+Serie A,2025-26,proportional,380,0.583,0.0162
+Serie A,2026-27,proportional,110,0.5252,0.0287
+Bundesliga,2019-20,shin,306,0.5809,0.021
+Bundesliga,2020-21,shin,306,0.5841,0.0201
+Bundesliga,2021-22,shin,306,0.5827,0.0205
+Bundesliga,2022-23,shin,306,0.5935,0.019
+Bundesliga,2023-24,shin,306,0.559,0.0203
+Bundesliga,2024-25,shin,306,0.59,0.02
+Bundesliga,2025-26,shin,306,0.5606,0.0183
+Bundesliga,2026-27,shin,81,0.5784,0.0422
+LaLiga,2019-20,shin,380,0.5855,0.0162
+LaLiga,2020-21,shin,380,0.581,0.0169
+LaLiga,2021-22,shin,380,0.5893,0.0164
+LaLiga,2022-23,shin,380,0.5817,0.016
+LaLiga,2023-24,shin,380,0.564,0.0158
+LaLiga,2024-25,shin,380,0.5586,0.0167
+LaLiga,2025-26,shin,380,0.5705,0.0155
+LaLiga,2026-27,shin,119,0.5322,0.0301
+Ligue 1,2019-20,shin,279,0.5871,0.0175
+Ligue 1,2020-21,shin,380,0.5916,0.0164
+Ligue 1,2021-22,shin,380,0.5981,0.0165
+Ligue 1,2022-23,shin,380,0.5758,0.0172
+Ligue 1,2023-24,shin,306,0.6103,0.0173
+Ligue 1,2024-25,shin,306,0.5642,0.0196
+Ligue 1,2025-26,shin,306,0.582,0.019
+Ligue 1,2026-27,shin,90,0.5595,0.032
+Premier League,2019-20,shin,380,0.5752,0.0188
+Premier League,2020-21,shin,380,0.5922,0.0179
+Premier League,2021-22,shin,380,0.5538,0.0181
+Premier League,2022-23,shin,380,0.5711,0.0178
+Premier League,2023-24,shin,380,0.5258,0.0187
+Premier League,2024-25,shin,380,0.5754,0.0184
+Premier League,2025-26,shin,380,0.6084,0.0165
+Premier League,2026-27,shin,100,0.605,0.0314
+Serie A,2019-20,shin,380,0.5655,0.0183
+Serie A,2020-21,shin,380,0.5501,0.0178
+Serie A,2021-22,shin,380,0.5773,0.0184
+Serie A,2022-23,shin,380,0.5824,0.0161
+Serie A,2023-24,shin,380,0.5763,0.0161
+Serie A,2024-25,shin,380,0.5665,0.0161
+Serie A,2025-26,shin,380,0.5828,0.0169
+Serie A,2026-27,shin,110,0.5223,0.0298
